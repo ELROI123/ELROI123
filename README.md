@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @ELROI123
-- 👀 I’m interested in android studio i am new with it...
-- 🌱 I’m currently learning how to build apps ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my discord server
+# Hi, I'm Elroi 👋
 
-https://discord.gg/x5P7SzbGDw
+I'm a full-stack developer building mobile apps and websites with Flutter, Dart, React, React Native, Next.js, TypeScript, and Supabase.
 
-<!---
-ELROI123/ELROI123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm developing Amiranet (אמירנט), an English learning and exam preparation app, working across its frontend and backend—from user interfaces to SQL databases, authentication, and integrations.
+
+My projects also include inventory management systems and practical web tools.
+
+I'm preparing to begin Electrical and Electronics Engineering studies at Ariel University.
+
+Most of my projects are maintained in private repositories.
+
+---
+
+<div dir="rtl">
+
+# היי, אני אלרועי 👋
+
+אני מפתח פול סטאק שבונה אפליקציות למובייל ואתרי אינטרנט עם Flutter, Dart, React, React Native, Next.js, TypeScript ו-Supabase.
+
+אני מפתח את אמירנט (Amiranet), אפליקציה ללימוד אנגלית ולהכנה לבחינות, ועובד על צד הלקוח וצד השרת שלה — מממשקי משתמש ועד מסדי נתונים ב-SQL, אימות משתמשים ואינטגרציות.
+
+הפרויקטים שלי כוללים גם מערכות לניהול מלאי וכלי אינטרנט שימושיים.
+
+אני מתכונן להתחיל לימודי הנדסת חשמל ואלקטרוניקה באוניברסיטת אריאל.
+
+רוב הפרויקטים שלי מנוהלים במאגרים פרטיים.
+
+</div>
